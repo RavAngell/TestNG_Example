@@ -28,10 +28,10 @@ git clone https://github.com/RavAngell/TestNG_Example.git
 How to use
 ----
 First type in console:
-mvn clean test
+```mvn clean test```
 
 Than:
-mvn test
+```mvn test```
 
 License
 ----

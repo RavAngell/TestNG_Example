@@ -23,7 +23,8 @@ TestNG_Example uses a number of open source projects to work properly:
 Installation
 --------------
 ```sh
-git clone [git-repo-url] dillinger
+git clone https://github.com/RavAngell/TestNG_Example.git
+
 ```
 License
 ----

@@ -12,7 +12,7 @@ Version
 Tech
 -----------
 
-Dillinger uses a number of open source projects to work properly:
+TestNG_Example uses a number of open source projects to work properly:
 
 * [Selenium WebDriver] - web browser driver
 * [TestNG] - testing framework (project contains testng.xml file config)

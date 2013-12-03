@@ -25,6 +25,15 @@ Installation
 ```sh
 git clone https://github.com/RavAngell/TestNG_Example.git
 ```
+How to use
+----
+First type in console:
+mvn clean test
+
+Than:
+mvn test
+
 License
 ----
 *Free for personal use*
+

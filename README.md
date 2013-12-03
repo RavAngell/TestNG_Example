@@ -1,7 +1,7 @@
 TestNG_Example
 ==============
 
-Java + Selenium + TestNG + ReportNG simple example. 
+Java + Selenium + Maven + TestNG + ReportNG simple example. 
 This is an example of PageOject pattern verifies main RetailMeNot page.
 
 Version

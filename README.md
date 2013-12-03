@@ -24,7 +24,6 @@ Installation
 --------------
 ```sh
 git clone https://github.com/RavAngell/TestNG_Example.git
-
 ```
 License
 ----

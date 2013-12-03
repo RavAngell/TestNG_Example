@@ -28,9 +28,11 @@ git clone https://github.com/RavAngell/TestNG_Example.git
 How to execute
 ----
 First type in console:
+
 ```mvn clean test```
 
 Than:
+
 ```mvn test```
 
 License
